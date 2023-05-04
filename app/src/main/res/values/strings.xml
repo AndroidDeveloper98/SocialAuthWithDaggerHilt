@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialAuthWithDaggerHiltMvvm</string>
+    <string name="facebook_app_id">907362730561171</string>
+    <string name="fb_login_protocol_scheme">fb907362730561171</string>
+    <string name="facebook_client_token">eb2bbdf8c10cdecea2f1e92b087020c3</string>
+    <string name="login_with">Login With</string>
+</resources>
